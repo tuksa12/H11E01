@@ -1,4 +1,7 @@
-package de.tum.in.ase.eist;
+package de.tum.in.ase.eist.discussion;
+
+import de.tum.in.ase.eist.university.Course;
+import de.tum.in.ase.eist.university.Person;
 
 import java.util.ArrayList;
 import java.util.List;

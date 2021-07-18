@@ -1,4 +1,4 @@
-package de.tum.in.ase.eist;
+package de.tum.in.ase.eist.exam;
 
 public class ExamQuestion {
     private String question;

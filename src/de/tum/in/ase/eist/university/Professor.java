@@ -1,4 +1,6 @@
-package de.tum.in.ase.eist;
+package de.tum.in.ase.eist.university;
+
+import de.tum.in.ase.eist.university.Lecturer;
 
 import java.time.LocalDate;
 

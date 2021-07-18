@@ -1,4 +1,6 @@
-package de.tum.in.ase.eist;
+package de.tum.in.ase.eist.discussion;
+
+import de.tum.in.ase.eist.university.Person;
 
 public abstract class Comment<T> {
 	private Person author;

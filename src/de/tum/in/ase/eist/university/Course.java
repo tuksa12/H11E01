@@ -1,4 +1,6 @@
-package de.tum.in.ase.eist;
+package de.tum.in.ase.eist.university;
+
+import de.tum.in.ase.eist.exam.Exam;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

@@ -1,4 +1,6 @@
-package de.tum.in.ase.eist;
+package de.tum.in.ase.eist.university;
+
+import de.tum.in.ase.eist.university.Course;
 
 import java.net.MalformedURLException;
 import java.net.URL;
